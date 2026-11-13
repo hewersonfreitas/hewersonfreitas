@@ -28,11 +28,9 @@ Hoje meu trabalho gira em torno de três frentes:
 
 ## O que você encontra aqui
 
-Meus repositórios públicos são em grande parte estudos e cursos. O que reflete meu trabalho real está em projetos privados de clientes, que não posso expor. Por isso destaco:
+Meu trabalho com clientes é privado, então não posso expor. Um projeto público onde contribuo:
 
-- [`module-href-lang`](https://github.com/hewersonfreitas/module-href-lang): módulo Magento 2 para identificar idiomas de lojas por ID.
-- [`aplicacao-php-mvc-cliente-produto`](https://github.com/hewersonfreitas/aplicacao-php-mvc-cliente-produto): aplicação PHP em MVC (cliente e produto).
-- [`Magento2-PT-BR`](https://github.com/hewersonfreitas/Magento2-PT-BR): tradução do Magento 2 para português do Brasil.
+- [`constela-mission`](https://github.com/Luiquecruz/constela-mission): plataforma de aprendizado em TypeScript, estilo freeCodeCamp. Contribuo com commits e pull requests de conteúdo e de CI/CD, com revisão automatizada.
 
 ## Curiosidades
 
